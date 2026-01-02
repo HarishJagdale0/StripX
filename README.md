@@ -29,7 +29,7 @@
 ## 🎨 StripX Brand & Logo
 
 <p align="center">
-  <img src="docs/stripx-logo.png" width="160" />
+  <img src="https://images-platform.99static.com//pZsHSi3Gc3XPIKp3pqNvze-A1Mk=/428x64:983x619/fit-in/500x500/99designs-contests-attachments/97/97838/attachment_97838747" width="160" />
 </p>
 
 **StripX Logo Concept:**
